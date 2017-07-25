@@ -21,4 +21,5 @@ And that's it! Read the accompanying [blog post](https://medium.com/@rdsubhas/do
 * [docker-slim](https://github.com/cloudimmunity/docker-slim), a tool to automatically analyze and trim existing fat containers
 
 
-forked so i can trigger a more up to date build
+forked so i can trigger a more up to date build.
+works really well with shipyard
